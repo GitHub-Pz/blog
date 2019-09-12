@@ -2,11 +2,11 @@ title: Stackbit Fjord Theme
 baseURL: /
 params:
   footer:
-    content: '&copy; Stackbit-Fjord. All rights reserved.'
+    content: '&copy; Prepare Zone LLC. All rights reserved.'
     links:
       - new_window: true
-        text: Made with Stackbit
-        url: 'https://www.stackbit.com'
+        text: prepare.zone
+        url: 'https://prepare.zone'
   header:
     bg_img: /images/header-bg.jpg
     has_nav: true
