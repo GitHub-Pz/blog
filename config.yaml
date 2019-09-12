@@ -11,7 +11,7 @@ params:
     bg_img: /images/header-bg.jpg
     has_nav: true
     has_social: true
-    logo_img: /images/pz-black.png
+    logo_img: /images/logopz_l.png
     tagline: Minimal and clean blog theme
     title: Project Design & CRM
   palette: yellow
